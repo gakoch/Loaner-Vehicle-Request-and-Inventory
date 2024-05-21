@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_attribute">
+    <sys_security_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>Role=eef19d7fc3718210c87cb71d05013100</condition>
+        <description>Auto Created Attribute - ACL_704319ffc3718210c87cb71d050131ff</description>
+        <is_dynamic>true</is_dynamic>
+        <is_localized>true</is_localized>
+        <is_system>false</is_system>
+        <label>ACL_704319ffc3718210c87cb71d050131ff</label>
+        <lookup_table/>
+        <lookup_table_column/>
+        <name>x_1227493_lva__ACL_704319ffc3718210c87cb71d050131ff</name>
+        <script/>
+        <sys_class_name>sys_security_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-18 03:58:46</sys_created_on>
+        <sys_id>4cae7aa8c31e8610c87cb71d050131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1227493_lva__ACL_704319ffc3718210c87cb71d050131ff</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1227493_lva">dd11943fc33d4210c87cb71d050131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">dd11943fc33d4210c87cb71d050131a6</sys_scope>
+        <sys_update_name>sys_security_attribute_4cae7aa8c31e8610c87cb71d050131a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-18 03:58:46</sys_updated_on>
+        <type>compound</type>
+    </sys_security_attribute>
+</record_update>

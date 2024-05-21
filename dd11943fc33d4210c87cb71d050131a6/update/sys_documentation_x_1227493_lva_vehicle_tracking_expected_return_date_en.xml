@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="expected_return_date" label="Expected Return Date" language="en" table="x_1227493_lva_vehicle_tracking">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>expected_return_date</element>
+            <help/>
+            <hint/>
+            <label>Expected Return Date</label>
+            <language>en</language>
+            <name>x_1227493_lva_vehicle_tracking</name>
+            <plural>Expected Return Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-04 16:01:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Expected Return Date</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1227493_lva">dd11943fc33d4210c87cb71d050131a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">dd11943fc33d4210c87cb71d050131a6</sys_scope>
+            <sys_update_name>sys_documentation_x_1227493_lva_vehicle_tracking_expected_return_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-04 16:01:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
